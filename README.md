@@ -1,4 +1,4 @@
-# 8-point-DFT
+# 8 point DFT
 
 The designed circuit of 8-point DFT based on product of Rademacher functions has been done successfully.
 
